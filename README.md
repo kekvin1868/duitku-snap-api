@@ -1,2 +1,4 @@
 # duitku-snap-api
-Test ALL Snap APIs
+Integrate ALL sandbox Snap APIs from Duitku.com
+* Payment Gateway APIs
+* Disbursement APIs
