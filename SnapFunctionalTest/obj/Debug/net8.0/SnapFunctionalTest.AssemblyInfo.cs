@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SnapFunctionalTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b1da29e89d8ab6ca3ddb8094e08fe89897ba336")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0d9b686ca3f4d3d42175396e7edb4384e90621c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SnapFunctionalTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SnapFunctionalTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
